@@ -94,9 +94,9 @@ https://twitter.com/_karukaru_/status/1144511327353765889
 |イベントページ|https://vrtokyo.connpass.com/event/129570/|
 
 ## TOKYO Perception Neuron Meetup
-- Noitom Hi5を用いてどんなHumanoidモデルでもキレイに指を動かせるスクリプト
+- Noitom Hi5を用いてどんなHumanoidモデルでもキレイに指を動かせるスクリプト  
   https://github.com/Bizcast/NoitomHi5InertiaToFingerMuscle
-- ViveTrackerなしでもキャリブレーションできるようにしたバイナリ
+- ViveTrackerなしでもキャリブレーションできるようにしたバイナリ  
   https://github.com/Bizcast/NoitomHi5CalibrationByNotUsingHmd
 - Oculus QuestとNoitom Hi5とexiii EXOSを悪魔合体シューティング
 - Perception Neuron Proのデモ
