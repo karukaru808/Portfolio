@@ -128,3 +128,13 @@ https://twitter.com/_karukaru_/status/1144511327353765889
 |リンク先|URL|
 |:--|:--|
 |イベントページ|https://vtuberjustdoit.peatix.com/|
+
+# 職歴
+## BitStar Akihabara Lab（2018年4月～）
+バーチャルYoutuber（VTuber）専門の研究所『BitStar Akihabara Lab』に所属するエンジニアとして活動しています。  
+VTuberに関する研究開発およびシステム開発を行っています。  
+
+|リンク先|URL|
+|:--|:--|
+|公式Twitter|https://twitter.com/akihabara_lab/|
+|公式チャンネル|https://www.youtube.com/channel/UCSrLl9krL-FTKg2tDHqcX4A/|
