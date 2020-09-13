@@ -138,3 +138,32 @@ VTuberに関する研究開発およびシステム開発を行っています�
 |:--|:--|
 |公式Twitter|https://twitter.com/akihabara_lab/|
 |公式チャンネル|https://www.youtube.com/channel/UCSrLl9krL-FTKg2tDHqcX4A/|
+
+# 所有デバイス
+## VR機材
+
+|デバイス名|URL|
+|:--|:--|
+|HTC VIVE CE|https://www.vive.com/jp/|
+|HTC VIVE Pro|https://www.vive.com/jp/product/vive-pro-full-kit/|
+|HTC VIVE Pro Eye|https://www.vive.com/jp/product/vive-pro-eye/overview/|
+|HTC VIVE Tracker（7個）|https://developer.vive.com/jp/vive-tracker-for-developer/|
+|Oculus Go|https://www.oculus.com/go/|
+|Oculus Quest|https://www.oculus.com/quest/|
+|Oculus Rift|https://www.oculus.com/rift/|
+|Oculus Rift S|https://www.oculus.com/rift-s/|
+|Valve Index|https://store.steampowered.com/sub/354231/|
+|Dell Visor|https://www.amazon.co.jp/dp/B076GWBFVH|
+|HP Reverb|https://jp.ext.hp.com/accessories/personal/reverb/|
+|Mirage Solo|https://www.lenovo.com/us/en/daydreamvr/|
+|IDEALENS K2|http://www.vr-japan.co.jp/wp/product.html|
+|PSVR|https://www.playstation.com/ja-jp/explore/playstation-vr/bundles/playstation-vr-worlds/|
+
+## モーションキャプチャ機材
+
+|デバイス名|URL|
+|:--|:--|
+|Perception Neuron Pro|https://www.noitom.com/perception-neuron-pro|
+|Noitom Hi5|https://www.noitom.com/hi5-vr-glove|
+|HTC VIVE Lip Tracker（レンタル、10月末返却）|https://www.youtube.com/watch?v=ZbaUOgyIG6U|
+|Droolon F1（レンタル、10月末返却）|https://www.7invensun.com/droolonf1xqy|
