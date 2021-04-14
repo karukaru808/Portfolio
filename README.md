@@ -140,8 +140,8 @@ https://twitter.com/_karukaru_/status/1144511327353765889
 |公式チャンネル||
 
 ## BitStar Akihabara Lab（2018年4月～2020年11月）
-バーチャルYoutuber（VTuber）専門の研究所『BitStar Akihabara Lab』に所属するエンジニアとして活動しています。  
-VTuberに関する研究開発およびシステム開発を行っています。  
+バーチャルYoutuber（VTuber）専門の研究所『BitStar Akihabara Lab』に所属するエンジニアとして活動。  
+VTuberに関する研究開発およびシステム開発を担当。  
 
 |リンク先|URL|
 |:--|:--|
@@ -153,12 +153,15 @@ VTuberに関する研究開発およびシステム開発を行っています�
 
 |デバイス名|URL|
 |:--|:--|
+|HTC VIVE Pre|https://www.moguravr.com/vive-pre/|
 |HTC VIVE CE|https://www.vive.com/jp/|
+|HTC VIVE Cosmos Elite HMD|https://www.vive.com/jp/product/vive-cosmos-elite-headset/overview/|
 |HTC VIVE Pro|https://www.vive.com/jp/product/vive-pro-full-kit/|
 |HTC VIVE Pro Eye|https://www.vive.com/jp/product/vive-pro-eye/overview/|
 |HTC VIVE Tracker 1.0（3個）|https://developer.vive.com/jp/vive-tracker-for-developer/|
 |HTC VIVE Tracker 2.0（10個）|https://developer.vive.com/jp/vive-tracker-for-developer/|
 |HTC VIVE Tracker 3.0（3個）|https://developer.vive.com/jp/hardware/tracker3/|
+|HTC VIVE Facial Tracker|https://developer.vive.com/jp/hardware/facial-tracker/|
 |Oculus Go|https://www.oculus.com/go/|
 |Oculus Quest|https://www.oculus.com/quest/|
 |Oculus Quest2（2台）|https://www.oculus.com/quest-2/|
@@ -177,4 +180,3 @@ VTuberに関する研究開発およびシステム開発を行っています�
 |:--|:--|
 |Perception Neuron Pro|https://www.noitom.com/perception-neuron-pro|
 |Noitom Hi5|https://www.noitom.com/hi5-vr-glove|
-|HTC VIVE Lip Tracker|https://www.youtube.com/watch?v=ZbaUOgyIG6U|
