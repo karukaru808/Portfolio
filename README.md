@@ -53,12 +53,12 @@ Unity デザイナーズ・バイブルの出版を記念してオンライン�
 |CGWORLD様 特集記事|https://cgworld.jp/feature/202006-unity-station.html|
 
 # 主宰
-## Noitom製品大体験会
+## モーションキャプチャを楽しむ会（旧名：Noitom製品大体験会）
 Noitom製品をメインとした体験会を数回主宰しました。  
 
 |リンク先|URL|
 |:--|:--|
-|Twitter|https://twitter.com/hashtag/Noitom%E8%A3%BD%E5%93%81%E5%A4%A7%E4%BD%93%E9%A8%93%E4%BC%9A|
+|Twitter|https://twitter.com/hashtag/Noitom%E8%A3%BD%E5%93%81%E5%A4%A7%E4%BD%93%E9%A8%93%E4%BC%9A<br>https://twitter.com/hashtag/%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E4%BC%9A|
 
 # 発表
 ## Roppongi.unity \#5
@@ -130,7 +130,16 @@ https://twitter.com/_karukaru_/status/1144511327353765889
 |イベントページ|https://vtuberjustdoit.peatix.com/|
 
 # 職歴
-## BitStar Akihabara Lab（2018年4月～）
+## 非公開（2020年12月～）
+非公開（2021年6月頃公開予定）。  
+
+|リンク先|URL|
+|:--|:--|
+|公式ホームページ||
+|公式Twitter||
+|公式チャンネル||
+
+## BitStar Akihabara Lab（2018年4月～2020年11月）
 バーチャルYoutuber（VTuber）専門の研究所『BitStar Akihabara Lab』に所属するエンジニアとして活動しています。  
 VTuberに関する研究開発およびシステム開発を行っています。  
 
@@ -147,9 +156,12 @@ VTuberに関する研究開発およびシステム開発を行っています�
 |HTC VIVE CE|https://www.vive.com/jp/|
 |HTC VIVE Pro|https://www.vive.com/jp/product/vive-pro-full-kit/|
 |HTC VIVE Pro Eye|https://www.vive.com/jp/product/vive-pro-eye/overview/|
-|HTC VIVE Tracker（7個）|https://developer.vive.com/jp/vive-tracker-for-developer/|
+|HTC VIVE Tracker 1.0（3個）|https://developer.vive.com/jp/vive-tracker-for-developer/|
+|HTC VIVE Tracker 2.0（10個）|https://developer.vive.com/jp/vive-tracker-for-developer/|
+|HTC VIVE Tracker 3.0（3個）|https://developer.vive.com/jp/hardware/tracker3/|
 |Oculus Go|https://www.oculus.com/go/|
 |Oculus Quest|https://www.oculus.com/quest/|
+|Oculus Quest2（2台）|https://www.oculus.com/quest-2/|
 |Oculus Rift|https://www.oculus.com/rift/|
 |Oculus Rift S|https://www.oculus.com/rift-s/|
 |Valve Index|https://store.steampowered.com/sub/354231/|
@@ -165,5 +177,4 @@ VTuberに関する研究開発およびシステム開発を行っています�
 |:--|:--|
 |Perception Neuron Pro|https://www.noitom.com/perception-neuron-pro|
 |Noitom Hi5|https://www.noitom.com/hi5-vr-glove|
-|HTC VIVE Lip Tracker（レンタル、10月末返却）|https://www.youtube.com/watch?v=ZbaUOgyIG6U|
-|Droolon F1（レンタル、10月末返却）|https://www.7invensun.com/droolonf1xqy|
+|HTC VIVE Lip Tracker|https://www.youtube.com/watch?v=ZbaUOgyIG6U|
