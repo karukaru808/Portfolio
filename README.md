@@ -5,14 +5,31 @@
 # 各種リンク
 |サービス名|リンク|
 |:--|:--|
-|Twitter|https://twitter.com/_karukaru_/|
+|Twitter|https://twitter.com/\_karukaru\_/|
 |GitHub|https://github.com/karukaru808/|
 |SpeakerDeck|https://speakerdeck.com/karukaru808/|
 |unity Learning Materials|https://learning.unity3d.jp/speaker/karukaru/|
 |はてなブログ|https://karukaru808.hatenablog.com/|
-|Qiita|https://qiita.com/_karukaru_/|
-|connpass|https://connpass.com/user/_karukaru_/presentation/|
+|Qiita|https://qiita.com/\_karukaru\_/|
+|connpass|https://connpass.com/user/\_karukaru\_/presentation/|
 |Booth|https://cifertech.booth.pm/|
+
+# スキルセット
+下記内容は2025年4月現在の情報です。  
+
+|内容|経験年数|
+|:--|:--|
+|Unity|7年|
+|C#|7年|
+|C/C++|10年|
+|Python|6年|
+|MotionBuilder|5年|
+|OptiTrack|5年|
+|Xsens MVN|7年|
+|Perception Neuronシリーズ|7年|
+|映像系業務用機材|6年|
+|音声系業務用機材|5年|
+|ネットワーク系業務用機材|6年|
 
 # 資格・認定
 |資格名|取得年月|
@@ -31,15 +48,36 @@
 |HAKODATEアカデミックリンク 審査員特別賞|2016年|
 
 # 執筆
+## Unityデザイナーズ・バイブル Reboot
+__「Animation Riggingで簡易的なアニメーション作成・編集」__  
+「Unity デザイナーズ・バイブル」、「Unityゲーム プログラミング・バイブル 2nd Generation」に引き続いて、Animation Riggingパッケージについて執筆させていただきました。  
+「Unity デザイナーズ・バイブル」の内容を踏襲しつつ、Unity2021に対応させた内容となっております。  
+詳しいことは「Unityデザイナーズ・バイブル Reboot」で私が担当した章をご覧ください。  
+
+|リンク先|URL|
+|:--|:--|
+|ボーンデジタル様 公式サイト|https://www.borndigital.co.jp/book/29947/|
+
+## Unityゲーム プログラミング・バイブル 2nd Generation
+__「Animation Riggingによるアニメーションのランタイム編集」__  
+「Unity デザイナーズ・バイブル」に引き続いて、Animation Riggingパッケージについて執筆させていただきました。  
+Animation Riggingをプログラムからどのようにして操作すれば良いのか、わかりやすく解説させていただきました。  
+詳しいことは「Unityゲーム プログラミング・バイブル 2nd Generation」で私が担当した章をご覧ください。  
+
+|リンク先|URL|
+|:--|:--|
+|ボーンデジタル様 公式サイト|https://www.borndigital.co.jp/book/22432/|
+
 ## Unity デザイナーズ・バイブル
 __「Animation Riggingで簡易的なアニメーション作成」__  
 Animation Rigging という、Unity2019.1から使用できるようになったPreview版パッケージについて執筆させていただきました。  
 これはUnityにプロシージャルアニメーションソリューションを追加するパッケージになります。  
+Animation Riggingを用いたアニメーションについてわかりやすく解説させていただきました。
 詳しいことは「Unity デザイナーズ・バイブル」で私が担当した章をご覧ください。  
 
 |リンク先|URL|
 |:--|:--|
-|ボーンデジタル様 公式サイト|https://www.borndigital.co.jp/book/18319.html|
+|ボーンデジタル様 公式サイト|https://www.borndigital.co.jp/book/18319/|
 |はてなブログ|https://karukaru808.hatenablog.com/entry/2020/04/14/232957|
 
 # 出演
@@ -130,14 +168,14 @@ https://twitter.com/_karukaru_/status/1144511327353765889
 |イベントページ|https://vtuberjustdoit.peatix.com/|
 
 # 職歴
-## 非公開（2020年12月～）
-非公開（2021年6月頃公開予定）。  
+## 株式会社バーチャルキャスト（2020年12月～）
+XRライブイベント事業に従事。  
+システムの設計から運用まで幅広く担当。  
 
 |リンク先|URL|
 |:--|:--|
-|公式ホームページ||
-|公式Twitter||
-|公式チャンネル||
+|公式ホームページ|https://xr.virtualcast.jp/|
+|公式Twitter|https://x.com/virtual_cast|
 
 ## BitStar Akihabara Lab（2018年4月～2020年11月）
 バーチャルYoutuber（VTuber）専門の研究所『BitStar Akihabara Lab』に所属するエンジニアとして活動。  
@@ -154,14 +192,14 @@ VTuberに関する研究開発およびシステム開発を担当。
 |デバイス名|URL|
 |:--|:--|
 |HTC VIVE Pre|https://www.moguravr.com/vive-pre/|
-|HTC VIVE CE|https://www.vive.com/jp/|
+|HTC VIVE CE（2台）|https://www.vive.com/jp/|
 |HTC VIVE Cosmos Elite HMD|https://www.vive.com/jp/product/vive-cosmos-elite-headset/overview/|
 |HTC VIVE Pro|https://www.vive.com/jp/product/vive-pro-full-kit/|
 |HTC VIVE Pro Eye|https://www.vive.com/jp/product/vive-pro-eye/overview/|
 |HTC VIVE Tracker 1.0（3個）|https://developer.vive.com/jp/vive-tracker-for-developer/|
 |HTC VIVE Tracker 2.0（10個）|https://developer.vive.com/jp/vive-tracker-for-developer/|
 |HTC VIVE Tracker 3.0（3個）|https://developer.vive.com/jp/hardware/tracker3/|
-|HTC VIVE Facial Tracker|https://developer.vive.com/jp/hardware/facial-tracker/|
+|HTC VIVE Facial Tracker（2個）|https://developer.vive.com/jp/hardware/facial-tracker/|
 |Oculus Go|https://www.oculus.com/go/|
 |Oculus Quest|https://www.oculus.com/quest/|
 |Oculus Quest2（2台）|https://www.oculus.com/quest-2/|
