@@ -5,13 +5,13 @@
 # 各種リンク
 |サービス名|リンク|
 |:--|:--|
-|Twitter|https://twitter.com/\_karukaru\_/|
+|Twitter|https://twitter.com/_karukaru_/|
 |GitHub|https://github.com/karukaru808/|
 |SpeakerDeck|https://speakerdeck.com/karukaru808/|
 |unity Learning Materials|https://learning.unity3d.jp/speaker/karukaru/|
 |はてなブログ|https://karukaru808.hatenablog.com/|
-|Qiita|https://qiita.com/\_karukaru\_/|
-|connpass|https://connpass.com/user/\_karukaru\_/presentation/|
+|Qiita|https://qiita.com/_karukaru_/|
+|connpass|https://connpass.com/user/_karukaru_/presentation/|
 |Booth|https://cifertech.booth.pm/|
 
 # スキルセット
